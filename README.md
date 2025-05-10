@@ -4,6 +4,8 @@
 
 I'm an **Information Systems student** passionate about **web development** and **problem-solving**. Always eager to learn new technologies and improve my coding skills.
 
+---
+
 ### Technologies I'm Learning
 
 <div>
